@@ -11,7 +11,7 @@
   "bugs": "https://github.com/softwareventures/tsconfig/issues",
   "homepage": "https://github.com/softwareventures/tsconfig",
   "sideEffects": false,
-  "devDependencies": {
+  "peerDependencies": {
     "typescript": "^3.2.2"
   }
 }
