@@ -1,0 +1,14 @@
+{
+  "name": "@softwareventures/tsconfig",
+  "version": "0.0.0",
+  "description": "Standard TypeScript compiler configuration for Software Ventures Limited",
+  "repository": "github:softwareventures/tsconfig",
+  "keywords": [
+    "TypeScript"
+  ],
+  "author": "Daniel Cassidy <mail@danielcassidy.me.uk>",
+  "license": "ISC",
+  "bugs": "https://github.com/softwareventures/tsconfig/issues",
+  "homepage": "https://github.com/softwareventures/tsconfig",
+  "sideEffects": false
+}
