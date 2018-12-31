@@ -1,6 +1,6 @@
 {
   "name": "@softwareventures/tsconfig",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Standard TypeScript compiler configuration for Software Ventures Limited",
   "repository": "github:softwareventures/tsconfig",
   "keywords": [
