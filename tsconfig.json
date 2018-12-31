@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "lib": ["es5"],
+    "declaration": true,
+    "downlevelIteration": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "importHelpers": true,
+    "inlineSources": true,
+    "noUnusedLocals": true,
+    "removeComments": true,
+    "sourceMap": true,
+    "strict": true,
+    "stripInternal": true
+  }
+}
