@@ -3,5 +3,7 @@
 /yarn.lock
 yarn-error.log
 npm-debug.log
-*.ts
-!*.d.ts
+/test.ts
+/test.d.ts
+/test.js
+/test.js.map
