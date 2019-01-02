@@ -1,5 +1,7 @@
 # tsconfig
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/softwareventures/tsconfig.svg)](https://greenkeeper.io/)
+
 Standard TypeScript compiler configuration for Software Ventures Limited.
 
 
