@@ -1,6 +1,6 @@
 {
   "name": "@softwareventures/tsconfig",
-  "version": "1.0.0",
+  "version": "0.0.0-development",
   "description": "Standard TypeScript compiler configuration for Software Ventures Limited",
   "repository": "github:softwareventures/tsconfig",
   "keywords": [
@@ -11,12 +11,14 @@
   "bugs": "https://github.com/softwareventures/tsconfig/issues",
   "homepage": "https://github.com/softwareventures/tsconfig",
   "scripts": {
-    "test": "tsc"
+    "test": "tsc",
+    "semantic-release": "semantic-release"
   },
   "sideEffects": false,
   "devDependencies": {
     "cz-conventional-changelog": "2.1.0",
-    "typescript": "3.3.4000"
+    "typescript": "3.3.4000",
+    "semantic-release": "15.13.3"
   },
   "peerDependencies": {
     "typescript": "^3.2.2"
