@@ -15,9 +15,15 @@
   },
   "sideEffects": false,
   "devDependencies": {
+    "cz-conventional-changelog": "2.1.0",
     "typescript": "3.3.4000"
   },
   "peerDependencies": {
     "typescript": "^3.2.2"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
   }
 }
