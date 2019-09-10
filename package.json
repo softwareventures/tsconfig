@@ -17,7 +17,7 @@
   "sideEffects": false,
   "devDependencies": {
     "cz-conventional-changelog": "3.0.2",
-    "typescript": "3.6.2",
+    "typescript": "3.6.3",
     "semantic-release": "15.13.24"
   },
   "peerDependencies": {
