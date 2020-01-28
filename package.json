@@ -16,7 +16,7 @@
   },
   "sideEffects": false,
   "devDependencies": {
-    "cz-conventional-changelog": "3.0.2",
+    "cz-conventional-changelog": "3.1.0",
     "typescript": "3.7.5",
     "semantic-release": "17.0.0"
   },
