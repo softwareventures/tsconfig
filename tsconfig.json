@@ -8,6 +8,7 @@
     "forceConsistentCasingInFileNames": true,
     "importHelpers": true,
     "inlineSources": true,
+    "noImplicitReturns": true,
     "noUnusedLocals": true,
     "removeComments": true,
     "resolveJsonModule": true,
