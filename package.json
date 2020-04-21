@@ -18,7 +18,7 @@
   "devDependencies": {
     "cz-conventional-changelog": "3.1.0",
     "typescript": "3.8.3",
-    "semantic-release": "17.0.6"
+    "semantic-release": "17.0.7"
   },
   "peerDependencies": {
     "typescript": "^3.2.2"
