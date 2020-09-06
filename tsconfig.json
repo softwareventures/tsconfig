@@ -10,7 +10,7 @@
     "importHelpers": true,
     "inlineSources": true,
     "noUnusedLocals": true,
-    "removeComments": true,
+    "removeComments": false,
     "resolveJsonModule": true,
     "sourceMap": true,
     "strict": true,
