@@ -2,7 +2,6 @@
 
 Standard TypeScript compiler configuration for Software Ventures Limited.
 
-
 ## Install
 
 ```bash
@@ -15,13 +14,12 @@ or for yarn users:
 yarn add --dev @softwareventures/tsconfig
 ```
 
-
 ## Usage
 
 Create a `tsconfig.json` file in the root of your project containing:
 
 ```json
 {
-  "extends": "@softwareventures/tsconfig"
+    "extends": "@softwareventures/tsconfig"
 }
 ```
