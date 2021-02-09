@@ -15,8 +15,7 @@ yarn add --dev @softwareventures/tsconfig
 ```
 
 We recommend that all packages that use this configuration also add a dependency
-on tslib. tslib is needed for compatibility shims used by TypeScript for
-CommonJS interoperability and backwards-compatibility with ES5.
+on tslib. tslib is needed for backwards-compatibility with ES5.
 
 ```bash
 npm install --save tslib
