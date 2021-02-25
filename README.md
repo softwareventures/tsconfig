@@ -37,3 +37,14 @@ Create a `tsconfig.json` file in the root of your project containing:
     "extends": "@softwareventures/tsconfig"
 }
 ```
+
+With the above configuration, TypeScript will generate CommonJS modules.
+
+If you want TypeScript to generate ES2020 modules instead, use the following
+configuration:
+
+```json
+{
+    "extends": "@softwareventures/tsconfig/esm.json"
+}
+```
