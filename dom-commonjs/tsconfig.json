@@ -1,0 +1,6 @@
+{
+  "extends": "../commonjs",
+  "compilerOptions": {
+    "lib": ["ES2017", "DOM", "DOM.Iterable"]
+  }
+}
