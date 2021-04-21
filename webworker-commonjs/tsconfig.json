@@ -1,5 +1,5 @@
 {
-  "extends": "../commonjs",
+  "extends": "../commonjs/tsconfig.json",
   "compilerOptions": {
     "lib": ["ES2017", "WebWorker"]
   }
