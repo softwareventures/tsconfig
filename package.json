@@ -12,7 +12,7 @@
   "license": "ISC",
   "scripts": {
     "fix": "prettier --write .",
-    "lint": "prettier --check .",
+    "lint": "tsc --noEmit && prettier --check .",
     "semantic-release": "semantic-release",
     "test": "tsc"
   },
