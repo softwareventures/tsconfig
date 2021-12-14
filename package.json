@@ -25,7 +25,7 @@
     "@softwareventures/semantic-release-config": "1.2.0",
     "cz-conventional-changelog": "3.3.0",
     "prettier": "2.5.1",
-    "semantic-release": "17.4.7",
+    "semantic-release": "18.0.1",
     "typescript": "4.5.4"
   },
   "prettier": "@softwareventures/prettier-config",
