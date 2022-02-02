@@ -388,12 +388,12 @@
     lodash "^4.17.4"
     read-pkg-up "^7.0.0"
 
-"@softwareventures/prettier-config@1.0.3":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@softwareventures/prettier-config/-/prettier-config-1.0.3.tgz#dac16415dfe766aeb24f301f1d62d3590f7bc819"
-  integrity sha512-rOUgvN4rvp8oJxJA3J90dDFe4Z6CXBL6Rr0GNUe/qRAvWxjRKeV6Pg5YQ9l5qkxbBow2tWlFBDjdZoiUztFCfg==
+"@softwareventures/prettier-config@3.0.0":
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/@softwareventures/prettier-config/-/prettier-config-3.0.0.tgz#e57ff64b9378486bc9b42437b34b3dcaf47319d9"
+  integrity sha512-YDom5xLPdsqKY5+Rcsv4S5reFvENt/z09aZopRdIzaqKBnL1uWXE3atbk27rVXTeekWgtauWCtgTJLiAJoLK8g==
   dependencies:
-    tslib "1.14.1"
+    tslib "2.3.1"
 
 "@softwareventures/semantic-release-config@1.2.0":
   version "1.2.0"
@@ -4327,15 +4327,20 @@ trim-off-newlines@^1.0.0:
   resolved "https://registry.yarnpkg.com/trim-off-newlines/-/trim-off-newlines-1.0.3.tgz#8df24847fcb821b0ab27d58ab6efec9f2fe961a1"
   integrity sha512-kh6Tu6GbeSNMGfrrZh6Bb/4ZEHV1QlB4xNDBeog8Y9/QwFlKTRyWvY3Fs9tRDAMZliVUwieMgEdIeL/FtqjkJg==
 
-tslib@1.14.1, tslib@^1.9.0:
-  version "1.14.1"
-  resolved "https://registry.yarnpkg.com/tslib/-/tslib-1.14.1.tgz#cf2d38bdc34a134bcaf1091c41f6619e2f672d00"
-  integrity sha512-Xni35NKzjgMrwevysHTCArtLDpPvye8zV/0E4EyYn43P7/7qvQwPh9BGkHewbMulVntbigmcT7rdX3BNo9wRJg==
-
 tslib@2.3.0:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.3.0.tgz#803b8cdab3e12ba581a4ca41c8839bbb0dacb09e"
   integrity sha512-N82ooyxVNm6h1riLCoyS9e3fuJ3AMG2zIZs2Gd1ATcSFjSA23Q0fzjjZeh0jbJvWVDZ0cJT8yaNNaaXHzueNjg==
+
+tslib@2.3.1:
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.3.1.tgz#e8a335add5ceae51aa261d32a490158ef042ef01"
+  integrity sha512-77EbyPPpMz+FRFRuAFlWMtmgUWGe9UOG2Z25NqCwiIjRhOf5iKGuzSe5P2w1laq+FkRy4p+PCuVkJSGkzTEKVw==
+
+tslib@^1.9.0:
+  version "1.14.1"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-1.14.1.tgz#cf2d38bdc34a134bcaf1091c41f6619e2f672d00"
+  integrity sha512-Xni35NKzjgMrwevysHTCArtLDpPvye8zV/0E4EyYn43P7/7qvQwPh9BGkHewbMulVntbigmcT7rdX3BNo9wRJg==
 
 tunnel-agent@^0.6.0:
   version "0.6.0"
