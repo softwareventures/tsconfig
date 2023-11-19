@@ -5,6 +5,7 @@
     "moduleResolution": "Node",
     "lib": ["ES2017"],
     "allowSyntheticDefaultImports": true,
+    "allowUnreachableCode": false,
     "declaration": true,
     "downlevelIteration": true,
     "exactOptionalPropertyTypes": true,
