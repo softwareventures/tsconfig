@@ -6,6 +6,7 @@
     "lib": ["ES2017"],
     "allowSyntheticDefaultImports": true,
     "allowUnreachableCode": false,
+    "allowUnusedLabels": false,
     "declaration": true,
     "downlevelIteration": true,
     "exactOptionalPropertyTypes": true,
