@@ -19,9 +19,6 @@
     "test": "tsc"
   },
   "sideEffects": false,
-  "engines": {
-    "node": "^12 || ^14 || >=16"
-  },
   "peerDependencies": {
     "typescript": "^4.5.0"
   },
