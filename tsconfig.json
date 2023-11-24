@@ -22,7 +22,6 @@
     "resolveJsonModule": true,
     "sourceMap": true,
     "strict": true,
-    "stripInternal": true,
     "types": []
   }
 }
