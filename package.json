@@ -30,7 +30,7 @@
     "cz-conventional-changelog": "3.3.0",
     "husky": "8.0.3",
     "prettier": "2.8.8",
-    "semantic-release": "19.0.5",
+    "semantic-release": "22.0.12",
     "typescript": "5.3.3"
   },
   "prettier": "@softwareventures/prettier-config",
