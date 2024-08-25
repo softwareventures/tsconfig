@@ -1,6 +1,6 @@
 {
   "extends": "../commonjs/tsconfig.json",
   "compilerOptions": {
-    "lib": ["ES2017", "WebWorker"]
+    "lib": ["ES2017", "WebWorker", "WebWorker.Iterable"]
   }
 }
