@@ -20,7 +20,7 @@
   },
   "sideEffects": false,
   "peerDependencies": {
-    "typescript": "^5.2.2"
+    "typescript": "^5.8.3"
   },
   "devDependencies": {
     "@softwareventures/precise-commits": "4.0.19",
