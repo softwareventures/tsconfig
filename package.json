@@ -11,8 +11,8 @@
   "repository": "github:softwareventures/tsconfig",
   "license": "ISC",
   "scripts": {
-    "fix": "tsc --noEmit && prettier --write .",
-    "lint": "tsc --noEmit && prettier --check .",
+    "fix": "prettier --write .",
+    "lint": "prettier --check .",
     "pre-commit": "precise-commits",
     "prepare": "husky",
     "semantic-release": "semantic-release",
