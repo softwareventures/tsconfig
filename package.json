@@ -23,7 +23,7 @@
     "typescript": "^5.8.3"
   },
   "devDependencies": {
-    "@softwareventures/precise-commits": "4.0.21",
+    "@softwareventures/precise-commits": "4.0.22",
     "@softwareventures/prettier-config": "4.0.0",
     "@softwareventures/semantic-release-config": "5.1.0",
     "conventional-changelog-conventionalcommits": "7.0.2",
