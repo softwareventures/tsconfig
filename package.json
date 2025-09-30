@@ -33,7 +33,7 @@
     "prettier": "3.6.2",
     "semantic-release": "22.0.12",
     "semantic-release-pinst": "1.0.4",
-    "typescript": "5.9.2"
+    "typescript": "5.9.3"
   },
   "prettier": "@softwareventures/prettier-config",
   "config": {
