@@ -15,7 +15,6 @@
     "fix": "prettier --write .",
     "postinstall": "husky",
     "lint": "prettier --check .",
-    "semantic-release": "semantic-release",
     "test": "tsc -p . -p dom -p webworker"
   },
   "sideEffects": false,
