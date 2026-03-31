@@ -750,17 +750,20 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@softwareventures/semantic-release-config@npm:5.2.0":
-  version: 5.2.0
-  resolution: "@softwareventures/semantic-release-config@npm:5.2.0"
+"@softwareventures/semantic-release-config@npm:9.0.0":
+  version: 9.0.0
+  resolution: "@softwareventures/semantic-release-config@npm:9.0.0"
   dependencies:
     tslib: "npm:2.8.1"
   peerDependencies:
-    conventional-changelog-conventionalcommits: ^4.6.3 || ^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0 || ^9.0.0
-    pinst: ">= 2.1.6"
-    semantic-release: ^17.0.7 || ^18.0.0 || ^19.0.0 || ^20.0.0 || ^21.0.0 || ^22.0.0 || ^23.0.0 || ^24.0.0 || ^25.0.0
-    semantic-release-pinst: ^1.0.0
-  checksum: 10c0/1e5779f094bbe6edc8b243f53145df664438dc8d2d0c8ba3d171c32c79470f3c48d980d5d2110ce115cb196f6a67c0bbc38c93cb25ce60aa6dafb547008c96f7
+    "@semantic-release/commit-analyzer": ^13.0.1
+    "@semantic-release/github": ^12.0.6
+    "@semantic-release/npm": ^13.1.5
+    "@semantic-release/release-notes-generator": ^14.1.0
+    conventional-changelog-conventionalcommits: ^9.0.0
+    semantic-release: ^25.0.0
+    semantic-release-pinst: ^1.1.0
+  checksum: 10c0/36917cde7c9988d61a7b16cc2f7f88725b8e4d0ccc683ae2a2a761bdd5d4e0acf16406e3189b46681635c89ee7f780f27881a07250bf57d1913c6d0c662bb242
   languageName: node
   linkType: hard
 
@@ -770,7 +773,7 @@ __metadata:
   dependencies:
     "@softwareventures/precise-commits": "npm:4.0.23"
     "@softwareventures/prettier-config": "npm:4.0.0"
-    "@softwareventures/semantic-release-config": "npm:5.2.0"
+    "@softwareventures/semantic-release-config": "npm:9.0.0"
     conventional-changelog-conventionalcommits: "npm:7.0.2"
     cz-conventional-changelog: "npm:3.3.0"
     husky: "npm:9.1.7"
