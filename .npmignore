@@ -5,6 +5,13 @@
 /.prettierignore
 /renovate.json
 /.snyk
+/.husky
+/*.config.js
+/*.config.cjs
+/*.config.mjs
+/*.config.ts
+/*.config.cts
+/*.config.mts
 /test.ts
 /test.d.ts
 /test.js
@@ -15,6 +22,8 @@ package-lock.json
 yarn.lock
 yarn-error.log
 npm-debug.log*
+/.yarn
+/.yarnrc.yml
 
 # macOS
 .DS_Store
