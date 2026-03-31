@@ -1,5 +1,3 @@
-/.idea/workspace.xml
-/.idea/tasks.xml
 /node_modules
 package-lock.json
 yarn-error.log
@@ -8,6 +6,10 @@ npm-debug.log*
 *.d.ts
 *.js.map
 !/types/*.d.ts
+# Personal WebStorm IDE files
+/.idea/workspace.xml
+/.idea/tasks.xml
+/.idea/shelf
 
 # macOS
 .DS_Store
