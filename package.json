@@ -13,7 +13,6 @@
   "scripts": {
     "fix": "prettier --write .",
     "lint": "prettier --check .",
-    "pre-commit": "precise-commits",
     "prepare": "husky",
     "semantic-release": "semantic-release",
     "test": "tsc -p . -p dom -p webworker"
